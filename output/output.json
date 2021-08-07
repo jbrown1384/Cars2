@@ -1,0 +1,213 @@
+{
+    "county": {
+        "ALACHUA COUNTY": {
+            "tiv_2012": 994039943.2500007
+        },
+        "BAKER COUNTY": {
+            "tiv_2012": 13641535.83
+        },
+        "BAY COUNTY": {
+            "tiv_2012": 1214516791.9599996
+        },
+        "BRADFORD COUNTY": {
+            "tiv_2012": 36498526.639999986
+        },
+        "BREVARD COUNTY": {
+            "tiv_2012": 1691618338.9999988
+        },
+        "BROWARD COUNTY": {
+            "tiv_2012": 8592221381.78
+        },
+        "CALHOUN COUNTY": {
+            "tiv_2012": 48664157.819999985
+        },
+        "CHARLOTTE COUNTY": {
+            "tiv_2012": 604095619.62
+        },
+        "CITRUS COUNTY": {
+            "tiv_2012": 390965085.6900002
+        },
+        "CLAY COUNTY": {
+            "tiv_2012": 260259205.01999998
+        },
+        "COLLIER COUNTY": {
+            "tiv_2012": 1904119642.8400004
+        },
+        "COLUMBIA COUNTY": {
+            "tiv_2012": 181838113.73000005
+        },
+        "DESOTO COUNTY": {
+            "tiv_2012": 64435107.190000005
+        },
+        "DIXIE COUNTY": {
+            "tiv_2012": 22378058.08000001
+        },
+        "DUVAL COUNTY": {
+            "tiv_2012": 6179309663.419986
+        },
+        "ESCAMBIA COUNTY": {
+            "tiv_2012": 1141126943.4899995
+        },
+        "FLAGLER COUNTY": {
+            "tiv_2012": 235011030.24999985
+        },
+        "FRANKLIN COUNTY": {
+            "tiv_2012": 27976734.509999998
+        },
+        "GADSDEN COUNTY": {
+            "tiv_2012": 177178393.9500001
+        },
+        "GILCHRIST COUNTY": {
+            "tiv_2012": 12270141.52
+        },
+        "GLADES COUNTY": {
+            "tiv_2012": 22223048.84
+        },
+        "GULF COUNTY": {
+            "tiv_2012": 61547192.889999986
+        },
+        "HAMILTON COUNTY": {
+            "tiv_2012": 4682423.65
+        },
+        "HARDEE COUNTY": {
+            "tiv_2012": 68819843.45
+        },
+        "HENDRY COUNTY": {
+            "tiv_2012": 104682737.09999996
+        },
+        "HERNANDO COUNTY": {
+            "tiv_2012": 348295256.35
+        },
+        "HIGHLANDS COUNTY": {
+            "tiv_2012": 756072585.0600003
+        },
+        "HILLSBOROUGH COUNTY": {
+            "tiv_2012": 7561754638.53
+        },
+        "HOLMES COUNTY": {
+            "tiv_2012": 62523394.89000002
+        },
+        "INDIAN RIVER COUNTY": {
+            "tiv_2012": 606672187.2700001
+        },
+        "JACKSON COUNTY": {
+            "tiv_2012": 155350407.74999997
+        },
+        "JEFFERSON COUNTY": {
+            "tiv_2012": 31294892.080000002
+        },
+        "LAFAYETTE COUNTY": {
+            "tiv_2012": 13973640.17
+        },
+        "LAKE COUNTY": {
+            "tiv_2012": 669145435.78
+        },
+        "LEE COUNTY": {
+            "tiv_2012": 1087867018.3399997
+        },
+        "LEON COUNTY": {
+            "tiv_2012": 630805682.3000003
+        },
+        "LEVY COUNTY": {
+            "tiv_2012": 31146939.07999999
+        },
+        "LIBERTY COUNTY": {
+            "tiv_2012": 23969990.890000004
+        },
+        "MADISON COUNTY": {
+            "tiv_2012": 61165725.81
+        },
+        "MANATEE COUNTY": {
+            "tiv_2012": 1144173981.5099998
+        },
+        "MARION COUNTY": {
+            "tiv_2012": 794655637.3899995
+        },
+        "MARTIN COUNTY": {
+            "tiv_2012": 26611914.99999999
+        },
+        "MIAMI DADE COUNTY": {
+            "tiv_2012": 16210408783.019955
+        },
+        "MONROE COUNTY": {
+            "tiv_2012": 622215658.0800003
+        },
+        "NASSAU COUNTY": {
+            "tiv_2012": 185020200.65999994
+        },
+        "North Fort Myers": {
+            "tiv_2012": 62536.32
+        },
+        "OKALOOSA COUNTY": {
+            "tiv_2012": 832855890.8700014
+        },
+        "ORANGE COUNTY": {
+            "tiv_2012": 14184153047.670015
+        },
+        "OSCEOLA COUNTY": {
+            "tiv_2012": 398351.32
+        },
+        "Orlando": {
+            "tiv_2012": 58857.08
+        },
+        "PALM BEACH COUNTY": {
+            "tiv_2012": 7970275062.460006
+        },
+        "PASCO COUNTY": {
+            "tiv_2012": 2063016389.380001
+        },
+        "PINELLAS COUNTY": {
+            "tiv_2012": 3344544422.6999993
+        },
+        "POLK COUNTY": {
+            "tiv_2012": 2638594305.999995
+        },
+        "PUTNAM COUNTY": {
+            "tiv_2012": 91415995.65
+        },
+        "SANTA ROSA COUNTY": {
+            "tiv_2012": 356877125.8799992
+        },
+        "SARASOTA COUNTY": {
+            "tiv_2012": 1684600014.1099994
+        },
+        "SEMINOLE COUNTY": {
+            "tiv_2012": 2242388122.479996
+        },
+        "ST  JOHNS COUNTY": {
+            "tiv_2012": 556440560.7699997
+        },
+        "SUMTER COUNTY": {
+            "tiv_2012": 104259404.64999999
+        },
+        "SUWANNEE COUNTY": {
+            "tiv_2012": 107417400.71
+        },
+        "TAYLOR COUNTY": {
+            "tiv_2012": 85255667.23000002
+        },
+        "UNION COUNTY": {
+            "tiv_2012": 4324471.399999999
+        },
+        "VOLUSIA COUNTY": {
+            "tiv_2012": 2288452129.4700065
+        },
+        "WAKULLA COUNTY": {
+            "tiv_2012": 134925811.28999996
+        },
+        "WALTON COUNTY": {
+            "tiv_2012": 339017181.5200001
+        },
+        "WASHINGTON COUNTY": {
+            "tiv_2012": 79587721.58999999
+        }
+    },
+    "line": {
+        "Commercial": {
+            "tiv_2012": 82091205702.92981
+        },
+        "Residential": {
+            "tiv_2012": 12094958399.100054
+        }
+    }
+}
