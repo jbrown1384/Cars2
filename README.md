@@ -16,3 +16,28 @@ php index.php
 
 ## JSON Output File
 <p>The JSON output file can be found in the <a href="https://github.com/jbrown1384/Cars2/tree/master/output">output directory</a></p>
+
+<p><b>Example output format:</b></p>
+
+
+```
+"county": {
+        "ALACHUA COUNTY": {
+            "tiv_2012": 12345.6789
+        },
+        "BAKER COUNTY": {
+            "tiv_2012": 12345.6789
+        },
+        "BAY COUNTY": {
+            "tiv_2012": 12345.6789
+        },
+        etc...
+    },
+    "line": {
+        "Commercial": {
+            "tiv_2012": 12345.6789
+        },
+        etc...
+    }
+}
+```
